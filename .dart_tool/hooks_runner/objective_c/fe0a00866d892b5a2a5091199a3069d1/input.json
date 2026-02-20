@@ -1,0 +1,29 @@
+{
+  "assets": {},
+  "config": {
+    "build_asset_types": [
+      "code_assets/code"
+    ],
+    "extensions": {
+      "code_assets": {
+        "android": {
+          "target_ndk_api": 24
+        },
+        "c_compiler": {
+          "ar": "/Users/jasleenkaurmultani/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar",
+          "cc": "/Users/jasleenkaurmultani/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+          "ld": "/Users/jasleenkaurmultani/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/ld.lld"
+        },
+        "link_mode_preference": "dynamic",
+        "target_architecture": "arm64",
+        "target_os": "android"
+      }
+    },
+    "linking_enabled": false
+  },
+  "out_dir_shared": "/Users/jasleenkaurmultani/Desktop/BlindAPP/.dart_tool/hooks_runner/shared/objective_c/build/",
+  "out_file": "/Users/jasleenkaurmultani/Desktop/BlindAPP/.dart_tool/hooks_runner/objective_c/fe0a00866d892b5a2a5091199a3069d1/output.json",
+  "package_name": "objective_c",
+  "package_root": "/Users/jasleenkaurmultani/.pub-cache/hosted/pub.dev/objective_c-9.3.0/",
+  "user_defines": {}
+}

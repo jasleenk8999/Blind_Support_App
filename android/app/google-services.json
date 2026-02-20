@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599709647198",
+    "project_id": "smart-vision-stick-f2293",
+    "storage_bucket": "smart-vision-stick-f2293.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599709647198:android:73c044c6a73e094d48cfcf",
+        "android_client_info": {
+          "package_name": "com.example.smart_vision_stick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkofaUgm7ugtPkgiAecviBmhtFOnc_kf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
